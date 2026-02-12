@@ -1,11 +1,13 @@
 {
   "enabled": true,
 
-  "info_line": "Version bêta – corrections limitées",
-  "link_word": "",
-  "link_url": "",
+  "info_line": "Survolez les corrections pour voir le détail. Nouvelle version disponible : cliquez ici",
+  "link_word": "ici",
+  "link_url": "https://example.com",
 
   "version_label": "V1.0 beta",
   "max_corrections_per_day": 20,
-  "unit_label": "corrections / jour"
+  "unit_label": "corrections / jour",
+
+  "marquee_pixels_per_second": 55
 }
